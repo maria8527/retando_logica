@@ -1,0 +1,83 @@
+
+.primero{
+    display:inline;
+    text-align: center;
+}
+  
+
+.segundo{
+    display: inline;
+}
+
+.numeros{
+    text-align: center;
+}
+ 
+div.menor{
+    margin-left: 460px;
+    margin-top: 50px;
+    width: 150px;
+    height: 230px;
+    display: flexbox;
+    justify-content: center;
+    align-items:flex-end;
+    gap: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+div.igual{
+    position: relative;
+    top: -235px;
+    left: 300px;
+    width: 150px;
+    height: 230px;
+    display: flexbox;
+    justify-content: center;
+    align-items:flex-end;
+    gap: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+   
+}
+
+div.intercambio{
+    margin-top: -200px;
+    height: 230px;
+    width: 150px;
+    display: flexbox;
+    justify-content: center;
+    align-items:flex-end;
+    gap: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+div.sumar{
+    position: relative;
+    top: -235px;
+    left: 300px;
+    width: 150px;
+    height: 230px;
+    display: flexbox;
+    justify-content: center;
+    align-items:flex-end;
+    gap: 20px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+p{
+    text-align:justify;
+    
+}
+ img{
+     display: block;
+ }
+
+ div.todo{
+    
+     margin-left: 460px;
+     margin-right: auto;
+ }
+
